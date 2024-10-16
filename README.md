@@ -11,3 +11,5 @@ My data science and analytics projects
 4. Looker GA4 Dashboard
 5. Linear Regression
    
+## Contact Me
+Reach out to me at 
